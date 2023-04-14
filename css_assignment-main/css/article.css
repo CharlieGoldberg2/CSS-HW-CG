@@ -1,0 +1,58 @@
+body { 
+ margin: 0px; 
+}
+.site_banner{ 
+  border-top: 8px solid black; 
+  padding: 20px;
+  border-bottom: 1px solid black;
+  text-align: center
+}
+#logo { 
+  width: 330px;
+}
+
+strong h3 { 
+  font-family: 'Basier', sans-serif;
+  size: 14px;
+}
+h3{
+  color: #de2f23;
+}
+
+article {
+  max-width: 900px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+  h1{
+  max-width: 900px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: 'Basier', sans-serif;
+  size: 46px;
+  margin-bottom: 0px;
+}
+
+p{
+  max-width: 900px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+img {
+  size: colored gray 14px;
+  max-width: 900px;
+  margin-left: 5%;
+  margin-right: 5%;
+  }
+
+  caption {
+  max-width: 900px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+div{
+  font-family: 'pensum';
+  size: 20px;
+}
